@@ -11,6 +11,7 @@
 * [DevTools Snippets](https://github.com/bahmutov/code-snippets) - Collection of DevTools snippets.
 
 ### Node.js + DevTools
+* [devtool](https://github.com/Jam3/devtool) - Runs Node.js programs inside Chrome DevTools (using Electron).
 * [chrome-remote-interface](https://github.com/cyrus-and/chrome-remote-interface) - The recommended Node.js API for the protocol. There are also [TypeScript-friendly alternatives](https://github.com/DickvdBrink/chrome-debug-protocol).
 * [chrome-devtools-frontend](https://www.npmjs.com/package/chrome-devtools-frontend) - Mirror of the frontend shipping in Chrome.
 * [chrome-timeline-model](https://www.npmjs.com/package/devtools-timeline-model) - Uses frontend as lib to process profiling data.
