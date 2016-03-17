@@ -30,7 +30,8 @@
 ### Debugging Android & iOS w/ DevTools
 * [PonyDebugger](https://github.com/square/PonyDebugger) - Remote network and data debugging iOS apps with Chrome DevTools
 * [Facebook Stetho](https://github.com/facebook/stetho) - Native Android debugging with Chrome DevTools
-
+* [Ti Inspector](https://github.com/omorandi/TiInspector) - Debug Titanium Mobile applications through Chrome DevTools
+* 
 ### Debugging Node.js w/ DevTools
 * [devtool](https://github.com/Jam3/devtool) - Debug & profile Node.js apps with Chrome DevTools (using Electron).
 * [buggerJS](https://github.com/buggerjs/bugger) - Provides Chrome DevTools bindings for node.
