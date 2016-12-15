@@ -60,6 +60,10 @@
 - [VS Code - Debugger for Chrome](https://github.com/Microsoft/vscode-chrome-debug/) - Chrome Debugger for Visual Studio Code
 
 ## Extensions
+
+### Accessibility (A11y)
+- [Chromelens](http://chromelens.xyz/) - See how your web app will look to people with different types of vision and the path users will travel when tabbing through your page.
+
 ### Workflow
 - [Clockwork](https://chrome.google.com/webstore/detail/clockwork/dmggabnehkmmfmdffgajcflpdjlnoemp?hl=en) - View PHP application profiling data.
 - [Emulated Device Lab](https://chrome.google.com/webstore/detail/emulated-device-lab/oaonfodocibcdobdeelbbfggjombamff) - Experiment with multiple devices being emulated at the same time.
