@@ -62,7 +62,7 @@
 ## Extensions
 
 ### Accessibility (A11y)
-- [Chromelens](http://chromelens.xyz/) - See how your web app will look to people with different types of vision and the path users will travel when tabbing through your page.
+- [Chromelens](http://chromelens.xyz) - See how your web app will look to people with different types of vision and the path users will travel when tabbing through your page.
 
 ### Workflow
 - [Clockwork](https://chrome.google.com/webstore/detail/clockwork/dmggabnehkmmfmdffgajcflpdjlnoemp?hl=en) - View PHP application profiling data.
