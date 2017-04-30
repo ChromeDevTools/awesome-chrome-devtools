@@ -28,6 +28,7 @@
 - [devtools-compat-proxy](https://github.com/artygus/devtools-compat-proxy) - Young effort to translate modern Safari debugging protocol to modern CDP.
 - [crmux](https://github.com/sidorares/crmux) - Multiplexer to handle multiple clients.
 - [RemoteDebug](https://github.com/RemoteDebug) - Initiative to normalize debugging protocols across today's browsers.
+- [cdp4j](https://github.com/webfolderio/cdp4j) - Java library for CDP
 
 ### Debugging Android & iOS w/ DevTools
 - [PonyDebugger](https://github.com/square/PonyDebugger) - Remote network and data debugging iOS apps with Chrome DevTools
