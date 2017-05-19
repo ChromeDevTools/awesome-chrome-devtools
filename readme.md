@@ -38,6 +38,9 @@
 - [devtool](https://github.com/Jam3/devtool) - Debug & profile Node.js apps with Chrome DevTools (using Electron).
 - [buggerJS](https://github.com/buggerjs/bugger) - Provides Chrome DevTools bindings for node.
 
+### Debugging other languages w/ DevTools
+- [Mare](https://github.com/muzuiget/mare) - Lua debugging with Chrome DevTools
+
 ### Object formatting
 - [immutable-devtools](https://github.com/andrewdavey/immutable-devtools) - Custom formatter for Immutable-js values.
 
