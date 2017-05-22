@@ -44,7 +44,7 @@
 - [Facebook Stetho](https://github.com/facebook/stetho) - Native Android debugging with Chrome DevTools
 
 #### ClosureScript
- - [Dirac](https://github.com/binaryage/dirac) - Debugging of ClojsureScript
+- [Dirac](https://github.com/binaryage/dirac) - Debugging of ClojsureScript
  
 #### Lua
 - [Mare](https://github.com/muzuiget/mare) - Lua debugging with Chrome DevTools
