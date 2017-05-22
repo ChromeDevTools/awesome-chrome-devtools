@@ -29,17 +29,27 @@
 - [crmux](https://github.com/sidorares/crmux) - Multiplexer to handle multiple clients.
 - [RemoteDebug](https://github.com/RemoteDebug) - Initiative to normalize debugging protocols across today's browsers.
 
-### Debugging Android & iOS w/ DevTools
-- [PonyDebugger](https://github.com/square/PonyDebugger) - Remote network and data debugging iOS apps with Chrome DevTools
+### Using DevTools with other targets/platforms
+
+#### Android
 - [Facebook Stetho](https://github.com/facebook/stetho) - Native Android debugging with Chrome DevTools
 
-### Debugging Node.js w/ DevTools
+#### ClosureScript
+ - [Dirac](https://github.com/binaryage/dirac) - Debugging of ClojsureScript
+ 
+#### Lua
+- [Mare](https://github.com/muzuiget/mare) - Lua debugging with Chrome DevTools
+
+#### iOS
+- [PonyDebugger](https://github.com/square/PonyDebugger) - Remote network and data debugging iOS apps with Chrome DevTools
+
+#### Go
+- [go-debugger-devtools](https://github.com/allada/go-debugger-devtools)
+
+### Node.js
 - [Debugging Node.js with Chrome DevTools](https://medium.com/@paul_irish/debugging-node-js-nightlies-with-chrome-devtools-7c4a1b95ae27) - New, native support for full debugging and profiling in Node v6.3+
 - [devtool](https://github.com/Jam3/devtool) - Debug & profile Node.js apps with Chrome DevTools (using Electron).
 - [buggerJS](https://github.com/buggerjs/bugger) - Provides Chrome DevTools bindings for node.
-
-### Debugging other languages w/ DevTools
-- [Mare](https://github.com/muzuiget/mare) - Lua debugging with Chrome DevTools
 
 ### Object formatting
 - [immutable-devtools](https://github.com/andrewdavey/immutable-devtools) - Custom formatter for Immutable-js values.
