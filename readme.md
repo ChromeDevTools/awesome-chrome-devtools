@@ -10,27 +10,35 @@
 - [DevTools Remote](https://github.com/auchenberg/devtools-remote) - Remotely debug someone else's browser.
 - [DevTools Snippets](https://github.com/bahmutov/code-snippets) - Collection of snippets.
 
-### Node.js + DevTools
-- [chrome-remote-interface](https://github.com/cyrus-and/chrome-remote-interface) - The recommended Node.js API for the protocol. There are also [TypeScript-friendly alternatives](https://github.com/DickvdBrink/chrome-debug-protocol).
-- [chrome-devtools-frontend](https://www.npmjs.com/package/chrome-devtools-frontend) - Mirror of the frontend shipping in Chrome.
-- [chrome-timeline-model](https://www.npmjs.com/package/devtools-timeline-model) - Uses frontend as lib to process profiling data.
+## Chrome Debugging Protocol
+- [DevTools Protocol API Docs](https://chromedevtools.github.io/devtools-protocol/) - Easy browsable UI for exploring the protocol's domains, methods and events
+- [ChromeDevTools/devtools-protocol](https://github.com/chromedevtools/devtools-protocol) - Issue tracker for protocol bugs
+- [Remote Debug Gateway](https://github.com/RemoteDebug/remotedebug-gateway) - Allows you to connect a client to multiple browsers at once.
+- [crmux](https://github.com/sidorares/crmux) - Multiplexer to handle multiple clients.
+- [RemoteDebug](https://github.com/RemoteDebug) - Initiative to normalize debugging protocols across today's browsers.
+
+### Protocol driver libraries (in various languages)
+- [chrome-remote-interface](https://github.com/cyrus-and/chrome-remote-interface) - The most-used JavaScript API for the protocol
+- [chrome-debugging-client](https://github.com/krisselden/chrome-debugging-client) - A TypeScript async/await-friendly debugging client
+- [cdp4j](https://github.com/webfolderio/cdp4j) - Java library for CDP
+- [chromote](https://github.com/iiSeymour/chromote) - Simple wrapper to drive Google Chrome from Python
+
+### Using protocol 
+- [chrome-remote-interface Wiki](https://github.com/cyrus-and/chrome-remote-interface/wiki) - Many useful recipes
+- [Getting Started with Headless Chrome](https://developers.google.com/web/updates/2017/04/headless-chrome)
 - [crmux](https://github.com/sidorares/crmux) - Multiplexes protocol connections.
+- [chrome-devtools-frontend](https://www.npmjs.com/package/chrome-devtools-frontend) - Mirror of the frontend that ships in Chrome.
+- [chrome-timeline-model](https://www.npmjs.com/package/devtools-timeline-model) - Uses frontend as lib to process profiling data.
 - [crconsole](https://github.com/sidorares/crconsole) - Terminal based chrome console and debugger.
 
-### Chrome Debugging Protocol
-- [Debugging Protocol Viewer](https://chromedevtools.github.io/debugger-protocol-viewer/) - Easy browsable UI for exploring the protocol's domains, methods and events
-- [Remote Debug Gateway](https://github.com/RemoteDebug/remotedebug-gateway) - Allows you to connect a client to multiple browsers at once.
+### Browser Adapters
 - [Remote Debug Firefox adapter](https://github.com/RemoteDebug/remotedebug-firefox-adapter) - Translates Firefox's devtools protocol to the CDP
 - [ios-webkit-debug-proxy](https://github.com/google/ios-webkit-debug-proxy) - Exposes Mobile Safari & UIWebView instances via the CDP.
 - [Remote Debug iOS WebKit adapter](https://github.com/RemoteDebug/remotedebug-ios-webkit-adapter) - Builts upon ios-webkit-debug-proxy and translates WebKit's Remote Debugging Protocol API to the CDP
 - [IE Diagnostics Adapter](https://github.com/Microsoft/IEDiagnosticsAdapter) - Protocol adaptor for Microsoft IE 10/11 to CDP.
 - [Edge Diagnostics Adaptor](https://github.com/Microsoft/edge-diagnostics-adaptor) - Protocol adaptor that enables tools to debug Edge using the CDP.
-- [devtools-compat-proxy](https://github.com/artygus/devtools-compat-proxy) - Young effort to translate modern Safari debugging protocol to modern CDP.
-- [crmux](https://github.com/sidorares/crmux) - Multiplexer to handle multiple clients.
-- [RemoteDebug](https://github.com/RemoteDebug) - Initiative to normalize debugging protocols across today's browsers.
-- [cdp4j](https://github.com/webfolderio/cdp4j) - Java library for CDP
 
-### Using DevTools with other targets/platforms
+## Using DevTools frontend with other targets/platforms
 
 #### Android
 - [Facebook Stetho](https://github.com/facebook/stetho) - Native Android debugging with Chrome DevTools
@@ -51,6 +59,8 @@
 - [Debugging Node.js with Chrome DevTools](https://medium.com/@paul_irish/debugging-node-js-nightlies-with-chrome-devtools-7c4a1b95ae27) - New, native support for full debugging and profiling in Node v6.3+
 - [devtool](https://github.com/Jam3/devtool) - Debug & profile Node.js apps with Chrome DevTools (using Electron).
 - [buggerJS](https://github.com/buggerjs/bugger) - Provides Chrome DevTools bindings for node.
+
+## DevTools tooling and ecosystem
 
 ### Object formatting
 - [immutable-devtools](https://github.com/andrewdavey/immutable-devtools) - Custom formatter for Immutable-js values.
