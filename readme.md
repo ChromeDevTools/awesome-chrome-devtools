@@ -10,7 +10,7 @@
 - [DevTools Remote](https://github.com/auchenberg/devtools-remote) - Remotely debug someone else's browser.
 - [DevTools Snippets](https://github.com/bahmutov/code-snippets) - Collection of snippets.
 
----------------------
+---
 
 ## Chrome DevTools Protocol
 - [DevTools Protocol API Docs](https://chromedevtools.github.io/devtools-protocol/) - Easy browsable UI for exploring the protocol's domains, methods and events
@@ -62,7 +62,7 @@
 - [devtool](https://github.com/Jam3/devtool) - Debug & profile Node.js apps with Chrome DevTools (using Electron).
 - [buggerJS](https://github.com/buggerjs/bugger) - Provides Chrome DevTools bindings for node.
 
--------------------
+---
 
 ## DevTools tooling and ecosystem
 
@@ -89,7 +89,7 @@
 - [VS Code - Debugger for Chrome](https://github.com/Microsoft/vscode-chrome-debug/) - Chrome Debugger for Visual Studio Code
 
 
------------------
+---
 
 ## Extensions
 
