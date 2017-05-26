@@ -84,6 +84,9 @@
 ### Timeline, Tracing & Profiling
 - [DevTools Timeline Viewer](https://chromedevtools.github.io/timeline-viewer/) - Share URLs of your timeline recordings.
 
+### Multimedia
+* [snapline](https://github.com/pmdartus/snapline) - Converts timeline screenshots to gif.
+
 ### Chrome Debugger integration with Editors
 - [Showcase Protocol Clients](https://developer.chrome.com/devtools/docs/debugging-clients) - Lists many editor integration extensions.
 - [VS Code - Debugger for Chrome](https://github.com/Microsoft/vscode-chrome-debug/) - Chrome Debugger for Visual Studio Code
