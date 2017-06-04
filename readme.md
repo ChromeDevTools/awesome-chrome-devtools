@@ -34,7 +34,8 @@
 
 ### Chrome Debugger integration with Editors
 - [VS Code - Debugger for Chrome](https://github.com/Microsoft/vscode-chrome-debug/) - Chrome Debugger for Visual Studio Code
-
+- [Sublime Web Inspector](http://sokolovstas.github.io/SublimeWebInspector/) - Debug Javascript right in the Sublime Text editor
+- [WebStorm & JetBrains Chrome Extension](https://www.jetbrains.com/help/webstorm/2017.1/configuring-javascript-debugger-and-jetbrains-chrome-extension.html) - The WebStorm IDE can debug JavaScript, view the DOM tree, and edit HTML, CSS and JS live.
 
 ---
 
@@ -42,8 +43,8 @@
 - [DevTools Protocol API Docs](https://chromedevtools.github.io/devtools-protocol/) - Easy browsable UI for exploring the protocol's domains, methods and events
 - [ChromeDevTools/devtools-protocol](https://github.com/chromedevtools/devtools-protocol) - Issue tracker for protocol bugs
 - [Remote Debug Gateway](https://github.com/RemoteDebug/remotedebug-gateway) - Allows you to connect a client to multiple browsers at once.
-- [crmux](https://github.com/sidorares/crmux) - Multiplexer to handle multiple clients.
 - [RemoteDebug](https://github.com/RemoteDebug) - Initiative to normalize debugging protocols across today's browsers.
+- [ChromeDriver](https://sites.google.com/a/chromium.org/chromedriver/) - The official Selenium/WebDriver implementation for Chrome is implemented on top of the DevTools Protocol.
 
 ### Protocol driver libraries (in various languages)
 - JavaScript/Node.js: [chrome-remote-interface](https://github.com/cyrus-and/chrome-remote-interface) - The most-used JavaScript API for the protocol
@@ -52,11 +53,13 @@
 - Python: [chromote](https://github.com/iiSeymour/chromote) - Simple wrapper to drive Google Chrome from Python
 - Go: [cdp](https://github.com/mafredri/cdp) - A Golang library for the protocol
 - Go: [gcd](https://github.com/wirepair/gcd) - A different client library in Go
+- Go: [godet](https://github.com/raff/godet) - Also different, also Go.
 
 ### Developing with the protocol 
 - [chrome-remote-interface Wiki](https://github.com/cyrus-and/chrome-remote-interface/wiki) - Many useful recipes
 - [Getting Started with Headless Chrome](https://developers.google.com/web/updates/2017/04/headless-chrome)
 - [crmux](https://github.com/sidorares/crmux) - Multiplexes protocol connections.
+- [automated-chrome-profiling](https://github.com/paulirish/automated-chrome-profiling#readme) - Node.js recipes for automating JavaScript profiling in Chrome.
 - [chrome-devtools-frontend](https://www.npmjs.com/package/chrome-devtools-frontend) - Mirror of the frontend that ships in Chrome.
 - [chrome-timeline-model](https://www.npmjs.com/package/devtools-timeline-model) - Uses frontend as lib to process profiling data.
 - [crconsole](https://github.com/sidorares/crconsole) - Terminal based chrome console and debugger.
