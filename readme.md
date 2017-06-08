@@ -51,6 +51,7 @@
 - TypeScript/Node.js: [chrome-debugging-client](https://github.com/krisselden/chrome-debugging-client) - A TypeScript async/await-friendly debugging client
 - Java: [cdp4j](https://github.com/webfolderio/cdp4j) - Java library for CDP
 - Python: [chromote](https://github.com/iiSeymour/chromote) - Simple wrapper to drive Google Chrome from Python
+- Python: [PyChromeDevTools](https://github.com/marty90/PyChromeDevTools) - Python wrapper for Google Chrome Dev Protocol
 - Go: [cdp](https://github.com/mafredri/cdp) - A Golang library for the protocol
 - Go: [gcd](https://github.com/wirepair/gcd) - A different client library in Go
 - Go: [godet](https://github.com/raff/godet) - Also different, also Go.
