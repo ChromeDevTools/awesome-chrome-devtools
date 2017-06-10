@@ -54,6 +54,7 @@
 - Go: [cdp](https://github.com/mafredri/cdp) - A Golang library for the protocol
 - Go: [gcd](https://github.com/wirepair/gcd) - A different client library in Go
 - Go: [godet](https://github.com/raff/godet) - Also different, also Go.
+- C#/dotnet: [chrome-dev-tools](https://github.com/BaristaLabs/chrome-dev-tools) - Provides a library for generating protocol wrappers written in .Net Core with handlebars templates.
 
 #### Developing with the protocol 
 - [chrome-remote-interface Wiki](https://github.com/cyrus-and/chrome-remote-interface/wiki) - Many useful recipes
