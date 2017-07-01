@@ -52,11 +52,12 @@
 - Java: [cdp4j](https://github.com/webfolderio/cdp4j) - Java library for CDP
 - Python: [chromote](https://github.com/iiSeymour/chromote) - Simple wrapper to drive Google Chrome from Python
 - Python: [PyChromeDevTools](https://github.com/marty90/PyChromeDevTools) - Python wrapper for Google Chrome Dev Protocol
+- Go: [chromedp](https://github.com/knq/chromedp) - High level actions and tasks for driving browsers via the Chrome Debugging Protocol
 - Go: [cdp](https://github.com/mafredri/cdp) - A Golang library for the protocol
 - Go: [gcd](https://github.com/wirepair/gcd) - A different client library in Go
 - Go: [godet](https://github.com/raff/godet) - Also different, also Go.
 
-#### Developing with the protocol 
+#### Developing with the protocol
 - [chrome-remote-interface Wiki](https://github.com/cyrus-and/chrome-remote-interface/wiki) - Many useful recipes
 - [Getting Started with Headless Chrome](https://developers.google.com/web/updates/2017/04/headless-chrome)
 - [crmux](https://github.com/sidorares/crmux) - Multiplexes protocol connections.
@@ -79,7 +80,7 @@
 
 ##### ClosureScript
 - [Dirac](https://github.com/binaryage/dirac) - Debugging of ClojsureScript
- 
+
 ##### Lua
 - [Mare](https://github.com/muzuiget/mare) - Lua debugging with Chrome DevTools
 
