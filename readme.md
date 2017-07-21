@@ -52,6 +52,7 @@
 - Java: [cdp4j](https://github.com/webfolderio/cdp4j) - Java library for CDP
 - Python: [chromote](https://github.com/iiSeymour/chromote) - Simple wrapper to drive Google Chrome from Python
 - Python: [PyChromeDevTools](https://github.com/marty90/PyChromeDevTools) - Python wrapper for Google Chrome Dev Protocol
+- Python: [chromewhip](https://github.com/chuckus/chromewhip) - Python 3 asyncio driver to manage concurrent requests to Google Chrome Devtools endpoints
 - Go: [chromedp](https://github.com/knq/chromedp) - High level actions and tasks for driving browsers via the Chrome Debugging Protocol
 - Go: [cdp](https://github.com/mafredri/cdp) - A Golang library for the protocol
 - Go: [gcd](https://github.com/wirepair/gcd) - A different client library in Go
