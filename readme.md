@@ -57,6 +57,7 @@
 - Go: [gcd](https://github.com/wirepair/gcd) - A different client library in Go
 - Go: [godet](https://github.com/raff/godet) - Also different, also Go.
 - C#/dotnet: [chrome-dev-tools](https://github.com/BaristaLabs/chrome-dev-tools) - Protocol wrapper generator that can be customized by editing handlebars templates. Includes .Net Core template.
+- Ruby: [ChromeRemote](https://github.com/cavalle/chrome_remote/) - A client implementation of the Chrome DevTools Protocol in Ruby
 
 #### Developing with the protocol
 - [chrome-remote-interface Wiki](https://github.com/cyrus-and/chrome-remote-interface/wiki) - Many useful recipes
