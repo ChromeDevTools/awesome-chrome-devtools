@@ -50,7 +50,6 @@
 - JavaScript/Node.js: [chrome-remote-interface](https://github.com/cyrus-and/chrome-remote-interface) - The most-used JavaScript API for the protocol
 - TypeScript/Node.js: [chrome-debugging-client](https://github.com/krisselden/chrome-debugging-client) - A TypeScript async/await-friendly debugging client
 - Java: [cdp4j](https://github.com/webfolderio/cdp4j) - Java library for CDP
-- Python: [chromote](https://github.com/iiSeymour/chromote) - Simple wrapper to drive Google Chrome from Python
 - Python: [PyChromeDevTools](https://github.com/marty90/PyChromeDevTools) - Python wrapper for Google Chrome Dev Protocol
 - Go: [chromedp](https://github.com/knq/chromedp) - High level actions and tasks for driving browsers via the Chrome Debugging Protocol
 - Go: [cdp](https://github.com/mafredri/cdp) - A Golang library for the protocol
