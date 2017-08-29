@@ -45,6 +45,7 @@
 - [Remote Debug Gateway](https://github.com/RemoteDebug/remotedebug-gateway) - Allows you to connect a client to multiple browsers at once.
 - [RemoteDebug](https://github.com/RemoteDebug) - Initiative to normalize debugging protocols across today's browsers.
 - [ChromeDriver](https://sites.google.com/a/chromium.org/chromedriver/) - The official Selenium/WebDriver implementation for Chrome is implemented on top of the DevTools Protocol.
+- [Chrome Protocol Proxy](https://github.com/wendigo/chrome-protocol-proxy) - tool for debugging clients using devtools protocol
 
 #### Protocol driver libraries (in various languages)
 - JavaScript/Node.js: [chrome-remote-interface](https://github.com/cyrus-and/chrome-remote-interface) - The most-used JavaScript API for the protocol
@@ -59,6 +60,7 @@
 - Go: [godet](https://github.com/raff/godet) - Also different, also Go.
 - C#/dotnet: [chrome-dev-tools](https://github.com/BaristaLabs/chrome-dev-tools) - Protocol wrapper generator that can be customized by editing handlebars templates. Includes .Net Core template.
 - Ruby: [ChromeRemote](https://github.com/cavalle/chrome_remote/) - A client implementation of the Chrome DevTools Protocol in Ruby
+- Kotlin: [chrome-reactive-kotlin](https://github.com/wendigo/chrome-reactive-kotlin) - reactive (rxjava 2.x), low-level client library in Kotlin
 
 #### Developing with the protocol
 - [chrome-remote-interface Wiki](https://github.com/cyrus-and/chrome-remote-interface/wiki) - Many useful recipes
