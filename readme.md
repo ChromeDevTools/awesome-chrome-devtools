@@ -75,6 +75,7 @@
 - [chrome-timeline-model](https://www.npmjs.com/package/devtools-timeline-model) - Uses frontend as lib to process profiling data.
 - [headless-devtools](https://github.com/cowchimp/headless-devtools) - Perform various DevTools actions from code (e.g. get CSS Coverage, JS Heap snapshot). Uses Puppeteer + frontend as lib.
 - [crconsole](https://github.com/sidorares/crconsole) - Terminal based chrome console and debugger.
+- [sloth](https://github.com/denar90/sloth) - Chrome extension allows to enable and save CPU and network throttling for selected tabs.
 
 #### Browser Adapters
 - [Remote Debug Firefox adapter](https://github.com/RemoteDebug/remotedebug-firefox-adapter) - Translates Firefox's devtools protocol to the CDP
