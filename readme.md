@@ -52,6 +52,7 @@
 #### Protocol driver libraries (in various languages)
 - JavaScript/Node.js: [chrome-remote-interface](https://github.com/cyrus-and/chrome-remote-interface) - The most-used JavaScript API for the protocol
 - TypeScript/Node.js: [chrome-debugging-client](https://github.com/krisselden/chrome-debugging-client) - A TypeScript async/await-friendly debugging client
+- Java: [chrome-devtools-java-client](https://github.com/kklisura/chrome-devtools-java-client) - Chrome DevTools Java Client
 - Java: [cdp4j](https://github.com/webfolderio/cdp4j) - Java library for CDP
 - Python: [PyChromeDevTools](https://github.com/marty90/PyChromeDevTools) - Python wrapper for Google Chrome Dev Protocol
 - Python: [chromewhip](https://github.com/chuckus/chromewhip) - Python 3 asyncio driver to manage concurrent requests to Google Chrome Devtools endpoints
