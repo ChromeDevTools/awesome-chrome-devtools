@@ -21,10 +21,9 @@
 - [betwixt](https://github.com/kdzwinel/betwixt) - System level network proxy, providing inspection via Network panel
 
 #### CPU profile
-- [JSCLegacyProfiler/json2trace](https://github.com/facebook/react-native/blob/master/JSCLegacyProfiler/json2trace) - Converts Safari's JavaScriptCore profiler output into `.cpuprofile`
 - [call-trace](https://github.com/brendankenny/call-trace) - Can instrument your JS with hooks, and then generate a `.cpuprofile`  of the of the complete (non-sampled) execution. View either time or call counts.
 - [cpuprofilify](https://github.com/thlorenz/cpuprofilify) - Converts output of various profiling/sampling tools to the `.cpuprofile` format.
-- [Wishbone python framework](http://wishbone.readthedocs.org/en/develop/miscellaneous.html#profiling) - Profiling data can export as `.cpuprofile`.
+- [Wishbone python framework](https://wishbone.readthedocs.io/en/latest/misc/profiling.html) - Profiling data can export as `.cpuprofile`.
 
 #### Multimedia
 - [snapline](https://github.com/pmdartus/snapline) - Converts timeline screenshots to gif.
@@ -138,7 +137,4 @@
 
 #### Performance
 - [Chrome React Perf](https://chrome.google.com/webstore/detail/react-perf/hacmcodfllhbnekmghgdlplbdnahmhmm) - An Operation Interface for react-addons-perf Package.
-
-#### Testing
-- [UI-automation-chrome-extension](https://chrome.google.com/webstore/detail/ui-automation/aacdhbhfmngpoiinjmphdcpalpdcmbpf/) - Provides simple DOM selectors with Java code snippets so you can write automated Selenium tests faster.
 
