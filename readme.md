@@ -100,7 +100,7 @@
 ### Android
 - [Facebook Stetho](https://github.com/facebook/stetho) - Native Android debugging with Chrome DevTools.
 
-### ClosureScript
+### ClojureScript
 - [Dirac](https://github.com/binaryage/dirac) - Debugging of ClojsureScript.
 
 ### Lua
