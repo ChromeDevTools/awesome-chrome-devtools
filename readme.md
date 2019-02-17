@@ -68,7 +68,7 @@
 - Python: [PyChromeDevTools](https://github.com/marty90/PyChromeDevTools) - Python wrapper for Google Chrome Dev Protocol
 - Python: [chromewhip](https://github.com/chuckus/chromewhip) - Python 3 asyncio driver to manage concurrent requests to Google Chrome Devtools endpoints
 - Python: [pychrome](https://github.com/fate0/pychrome) - A Python Package for the Google Chrome Dev Protocol
-- Rust: [Rust Headless Chrome](https://github.com/atroche/rust-headless-chrome/) - A Rust crate for the protocol
+- Rust: [Rust Headless Chrome](https://github.com/atroche/rust-headless-chrome/) - An implementation of Puppeteer in Rust
 - Go: [chromedp](https://github.com/chromedp/chromedp) - High-level actions and tasks for driving browsers using the Chrome DevTools Protocol in Go
 - Go: [cdp](https://github.com/mafredri/cdp) - A Golang library for the protocol
 - Go: [gcd](https://github.com/wirepair/gcd) - A different client library in Go
