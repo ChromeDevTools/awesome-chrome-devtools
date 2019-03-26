@@ -101,6 +101,7 @@
 
 ### Android
 - [Facebook Stetho](https://github.com/facebook/stetho) - Native Android debugging with Chrome DevTools.
+- [j2v8-debugger](https://github.com/AlexTrotsenko/j2v8-debugger) - Debugging JavaScript running in [J2V8](https://github.com/eclipsesource/J2V8) with Chrome DevTools.
 
 ### ClojureScript
 - [Dirac](https://github.com/binaryage/dirac) - Debugging of ClojsureScript.
