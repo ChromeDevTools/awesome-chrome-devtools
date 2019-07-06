@@ -31,6 +31,7 @@
 
 ### Network Inspection
 - [betwixt](https://github.com/kdzwinel/betwixt) - System level network proxy, providing inspection via Network panel.
+- [Weer](https://weerdbg.com/) - A HTTP protocol debugger
 
 ### CPU profile
 - [call-trace](https://github.com/brendankenny/call-trace) - Can instrument your JS with hooks, and then generate a `.cpuprofile`  of the of the complete (non-sampled) execution. View either time or call counts.
