@@ -65,6 +65,8 @@
 - TypeScript/Node.js: [chrome-debugging-client](https://github.com/krisselden/chrome-debugging-client) - A TypeScript async/await-friendly debugging client
 - Java: [cdp4j](https://github.com/webfolderio/cdp4j) - Java library for CDP
 - Java: [karate](https://intuit.github.io/karate/karate-core/) - Web-service testing framework with a Java API to automate Chrome with the CDP protocol
+- Python: [PyCDP](https://github.com/hyperiongray/python-chrome-devtools-protocol) - Pure-Python, sans-IO wrappers for Chrome DevTools Protocol
+- Python: [Trio CDP](https://github.com/hyperiongray/trio-chrome-devtools-protocol) - Trio driver for Chrome DevTools Protocol (based on PyCDP).
 - Python: [PyChromeDevTools](https://github.com/marty90/PyChromeDevTools) - Python wrapper for Google Chrome Dev Protocol
 - Python: [chromewhip](https://github.com/chuckus/chromewhip) - Python 3 asyncio driver to manage concurrent requests to Google Chrome Devtools endpoints
 - Python: [pychrome](https://github.com/fate0/pychrome) - A Python Package for the Google Chrome Dev Protocol
