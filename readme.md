@@ -77,7 +77,7 @@
 - TypeScript/Node.js: [chrome-debugging-client](https://github.com/krisselden/chrome-debugging-client)
 - Java: [chrome-devtools-java-client](https://github.com/kklisura/chrome-devtools-java-client)
 - Java: [karate](https://intuit.github.io/karate/karate-core/) - Web-service testing framework with a Java API to automate Chrome
-- Java: [jvppeteer](https://github.com/fanyong920/jvppeteer)
+- Java: [jvppeteer](https://github.com/fanyong920/jvppeteer)  - Headless Chrome For Java 
 - Python: [PyCDP](https://github.com/hyperiongray/python-chrome-devtools-protocol) - Pure-Python, sans-IO wrappers. See also the [Trio CDP driver](https://github.com/hyperiongray/trio-chrome-devtools-protocol)
 - Python: [chromewhip](https://github.com/chuckus/chromewhip) - drop-in replacement for the `splash` service
 - Python: [pychrome](https://github.com/fate0/pychrome) - low level CDP transport handler
