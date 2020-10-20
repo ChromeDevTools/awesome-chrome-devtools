@@ -69,7 +69,8 @@
   - Rust port: [Rust Headless Chrome](https://github.com/atroche/rust-headless-chrome/)
   - .NET port: [Puppeteer Sharp](https://github.com/kblok/puppeteer-sharp)
   - [headless-devtools](https://github.com/cowchimp/headless-devtools) - Puppeteer plugin to get CSS Coverage or JS Heap snapshot.
-- [Taiko](https://github.com/getgauge/taiko/) - A Node.js module to automate the chrome/chromium using DevTools protocol.
+  - [PuPHPeteer](https://github.com/rialto-php/puphpeteer) - PHP-bridge to control Puppeteer using PHP.
+- [Taiko](https://github.com/getgauge/taiko/) - A Node.js module to automate the Chrome/Chromium using DevTools protocol.
 - Also all `Protocol Driver Libraries` below
 
 ### Protocol Driver Libraries
