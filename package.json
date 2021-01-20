@@ -7,7 +7,7 @@
     "test": "awesome-lint"
   },
   "devDependencies": {
-    "awesome-lint": "*"
+    "awesome-lint": "latest"
   },
   "repository": {
     "type": "git",
