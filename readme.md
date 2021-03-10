@@ -73,6 +73,7 @@
   - [PuPHPeteer](https://github.com/rialto-php/puphpeteer) - PHP-bridge to control Puppeteer using PHP.
 - [Playwright](https://github.com/microsoft/playwright) - Node.js library to automate Chromium, Firefox and WebKit with a single API.
 - [Taiko](https://github.com/getgauge/taiko/) - A Node.js module to automate the Chrome/Chromium using DevTools protocol.
+- [cuic](https://github.com/milankinen/cuic) - Clojure library providing a high-level API for UI test automation over the DevTools Protocol.
 - Also all `Protocol Driver Libraries` below
 
 ### Protocol Driver Libraries
