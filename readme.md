@@ -130,6 +130,9 @@
 - [thetool](https://github.com/sfninja/thetool) - CPU, memory, coverage, type profiling with Node.
 - [chrome-devtools-frontend](https://www.npmjs.com/package/chrome-devtools-frontend) - Mirror of the frontend that ships in Chrome.
 
+#### Ruby
+- [ruby/debug](https://github.com/ruby/debug) - Debugging functionality for Ruby
+
 ---
 
 ## DevTools Extensions
