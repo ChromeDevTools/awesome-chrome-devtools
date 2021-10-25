@@ -115,9 +115,6 @@
 #### ClojureScript
 - [Dirac](https://github.com/binaryage/dirac) - Debugging of ClojsureScript.
 
-#### Lua
-- [Mare](https://github.com/muzuiget/mare) - Lua debugging with Chrome DevTools.
-
 #### iOS
 - [PonyDebugger](https://github.com/square/PonyDebugger) - Remote network and data debugging iOS apps with Chrome DevTools.
 
