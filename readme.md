@@ -15,9 +15,7 @@
 ## Learning
 - [Dev Tips](https://umaar.com/dev-tips/) - Large collection of tips as animated gifs.
 - [DevTools Snippets](https://github.com/bahmutov/code-snippets) - Collection of snippets.
-
-### Multiuser DevTools
-- [DevTools Remote](https://github.com/auchenberg/devtools-remote) - Remotely debug someone else's browser.
+- [Can I DevTools?](https://www.canidev.tools/) - Various workflows, documented
 
 ---
 
@@ -57,54 +55,43 @@
 ### Developing with the protocol
 - [chrome-remote-interface Wiki](https://github.com/cyrus-and/chrome-remote-interface/wiki) - Many useful recipes.
 - [Chrome Protocol Proxy](https://github.com/wendigo/chrome-protocol-proxy) - Tool for debugging clients using devtools protocol.
-- [Remote Debug Gateway](https://github.com/RemoteDebug/remotedebug-gateway) - Allows you to connect a client to multiple browsers at once.
-- [DevTools Backend](https://github.com/christian-bromann/devtools-backend) - Standalone implementation of the Chrome DevTools backend to debug arbitrary web environments.
-- [RemoteDebug](https://github.com/RemoteDebug) - Initiative to normalize debugging protocols across today's browsers.
-- [ChromeDriver](https://sites.google.com/corp/chromium.org/driver/) - The official Selenium/WebDriver implementation for Chrome is implemented on top of the DevTools Protocol.
-- [BrowserGap Community Edition](https://github.com/dosycorp/browsergap.ce) - A remote browser product, open sourced. Makes heavy use of the raw, tip-of-tree Chrome DevTools protocol.
 
-### Automation
-- [Puppeteer](https://github.com/GoogleChrome/puppeteer/) - Node.js offering a high-level API to control headless Chrome over the DevTools Protocol.
-  - Python port: [pyppeteer](https://github.com/pyppeteer/pyppeteer)
-  - Rust port: [Rust Headless Chrome](https://github.com/atroche/rust-headless-chrome/)
-  - .NET port: [Puppeteer Sharp](https://github.com/kblok/puppeteer-sharp)
-  - Ruby port: [Ferrum](https://github.com/route/ferrum)
-  - [headless-devtools](https://github.com/cowchimp/headless-devtools) - Puppeteer plugin to get CSS Coverage or JS Heap snapshot.
-  - [PuPHPeteer](https://github.com/rialto-php/puphpeteer) - PHP-bridge to control Puppeteer using PHP.
-- [Playwright](https://github.com/microsoft/playwright) - Node.js library to automate Chromium, Firefox and WebKit with a single API.
-- [Taiko](https://github.com/getgauge/taiko/) - A Node.js module to automate the Chrome/Chromium using DevTools protocol.
-- [cuic](https://github.com/milankinen/cuic) - Clojure library providing a high-level API for UI test automation over the DevTools Protocol.
-- Also all `Protocol Driver Libraries` below
+### The big two automation libraries
+- [Puppeteer](https://github.com/GoogleChrome/puppeteer/) - Node.js offering a high-level API to control headless Chrome over the DevTools Protocol. See also [awesome-puppeteer](https://github.com/transitive-bullshit/awesome-puppeteer).
+- [Playwright](https://github.com/microsoft/playwright) - Library to automate Chromium, Firefox and WebKit with a single API. Available for Node.js, Python, .Net, Java. See also [awesome-playwright](https://github.com/mxschmitt/awesome-playwright).
 
-### Protocol Driver Libraries
-- JavaScript/Node.js: [chrome-remote-interface](https://github.com/cyrus-and/chrome-remote-interface) - The most-used JavaScript API for the protocol
-- TypeScript/Node.js: [chrome-debugging-client](https://github.com/krisselden/chrome-debugging-client)
+### Libraries for driving the protocol (or a layer above)
+
+- JavaScript/Node.js: [chrome-remote-interface](https://github.com/cyrus-and/chrome-remote-interface)
+- TypeScript/Node.js: [chrome-debugging-client](https://github.com/TracerBench/chrome-debugging-client)
 - Typescript/Node.js: [noice-json-rpc](https://www.npmjs.com/package/noice-json-rpc) - A proxy-based implementation to expose the CDP as its API.
+- Typescript/Node.js: [Taiko](https://github.com/getgauge/taiko/)
+- Rust: [Rust Headless Chrome](https://github.com/atroche/rust-headless-chrome/)
 - Java: [chrome-devtools-java-client](https://github.com/kklisura/chrome-devtools-java-client)
-- Java: [karate](https://intuit.github.io/karate/karate-core/) - Web-service testing framework with a Java API to automate Chrome
 - Java: [jvppeteer](https://github.com/fanyong920/jvppeteer)  - Headless Chrome For Java 
 - Python: [PyCDP](https://github.com/hyperiongray/python-chrome-devtools-protocol) - Pure-Python, sans-IO wrappers. See also the [Trio CDP driver](https://github.com/hyperiongray/trio-chrome-devtools-protocol)
 - Python: [chromewhip](https://github.com/chuckus/chromewhip) - drop-in replacement for the `splash` service
-- Python: [pychrome](https://github.com/fate0/pychrome) - low level CDP transport handler
+- Python: [pyppeteer](https://github.com/pyppeteer/pyppeteer) - puppeteer port
 - Python: [ChromeController](https://github.com/fake-name/ChromeController) - high-level browser mgmt
 - Go: [chromedp](https://github.com/chromedp/chromedp) - High-level actions and tasks for driving browsers
 - Go: [cdp](https://github.com/mafredri/cdp)
 - Go: [gcd](https://github.com/wirepair/gcd)
 - Go: [godet](https://github.com/raff/godet)
 - Go: [Rod](https://github.com/go-rod/rod)
+- C#/.NET: [Puppeteer Sharp](https://github.com/kblok/puppeteer-sharp) - puppeteer port
 - C#/dotnet: [chrome-dev-tools](https://github.com/BaristaLabs/chrome-dev-tools) - Protocol wrapper generator that can be customized by editing handlebars templates. Includes .Net Core template.
+- Ruby: [Ferrum](https://github.com/route/ferrum) - high-level API to control Chrome in Ruby
 - Ruby: [Cuprite](https://github.com/machinio/cuprite) - Capybara driver
-- Ruby: [ChromeRemote](https://github.com/cavalle/chrome_remote/)
 - Kotlin: [chrome-reactive-kotlin](https://github.com/wendigo/chrome-reactive-kotlin) - reactive (rxjava 2.x), low-level client library in Kotlin
 - Kotlin: [chrome-devtools-kotlin](https://github.com/joffrey-bion/chrome-devtools-kotlin) - A coroutine-based client library, providing low-level CDP primitives and high-level extensions.
 - Clojure: [clj-chrome-devtools](https://github.com/tatut/clj-chrome-devtools) - The CDP wrapper API is autogenerated and will be updated when CDP protocol changes.
+- Clojure: [cuic](https://github.com/milankinen/cuic) - Providing a high-level API for UI test automation over the DevTools Protocol.
 - PHP: [chrome-devtools-protocol](https://github.com/jakubkulhan/chrome-devtools-protocol) - A PHP client library for the protocol.
+- PHP: [PuPHPeteer](https://github.com/rialto-php/puphpeteer) - php bridge to node puppeteer
+
 
 ### Browser Adapters
-- [Remote Debug Firefox adapter](https://github.com/RemoteDebug/remotedebug-firefox-adapter) - Translates Firefox's devtools protocol to the CDP.
-- [ios-webkit-debug-proxy](https://github.com/google/ios-webkit-debug-proxy) - Exposes Mobile Safari & UIWebView instances via the CDP.
-  - [Remote Debug iOS WebKit adapter](https://github.com/RemoteDebug/remotedebug-ios-webkit-adapter) - Builts upon ios-webkit-debug-proxy and translates WebKit's Remote Debugging Protocol API to the CDP.
-- [IE Diagnostics Adapter](https://github.com/Microsoft/IEDiagnosticsAdapter) - Protocol adaptor for Microsoft IE 11 to CDP.
+- [Inspect](https://inspect.dev/) - Use devtools against iOS and Android, easily. Browser and Webviews. **(closed source)**
 
 
 ## Using DevTools frontend with other platforms
@@ -118,9 +105,6 @@
 
 #### iOS
 - [PonyDebugger](https://github.com/square/PonyDebugger) - Remote network and data debugging iOS apps with Chrome DevTools.
-
-#### Go
-- [go-debugger-devtools](https://github.com/allada/go-debugger-devtools)
 
 #### Node.js
 - [ndb](https://github.com/GoogleChromeLabs/ndb) - An improved Node.js debugging experience with the DevTools Frontend.
@@ -168,3 +152,15 @@
 
 ### Automation
 - [Puppeteer IDE](https://github.com/gajananpp/puppeteer-ide-extension) - Standalone Puppeteer playground in browser's developer tools.
+
+## Alumni
+Old projects, likely not maintained any longer… But still cool.
+
+- [Remote Debug Gateway](https://github.com/RemoteDebug/remotedebug-gateway) - Allows you to connect a client to multiple browsers at once.  
+   - Multiuser DevTools: [DevTools Remote](https://github.com/auchenberg/devtools-remote) - Remotely debug someone else's browser.
+- [DevTools Backend](https://github.com/christian-bromann/devtools-backend) - Standalone implementation of the Chrome DevTools backend to debug arbitrary web environments.
+- Python CDP driver: [pychrome](https://github.com/fate0/pychrome) - low level CDP transport handler
+- [ios-webkit-debug-proxy](https://github.com/google/ios-webkit-debug-proxy) - Exposes Mobile Safari & UIWebView instances via the CDP.
+  - [Remote Debug iOS WebKit adapter](https://github.com/RemoteDebug/remotedebug-ios-webkit-adapter) - Builts upon ios-webkit-debug-proxy and translates WebKit's Remote Debugging Protocol API to the CDP.
+- [IE Diagnostics Adapter](https://github.com/Microsoft/IEDiagnosticsAdapter) - Protocol adaptor for Microsoft IE 11 to CDP.
+- [go-debugger-devtools](https://github.com/allada/go-debugger-devtools)
