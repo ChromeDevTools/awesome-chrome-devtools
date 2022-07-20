@@ -79,6 +79,7 @@
 ### Protocol Driver Libraries
 - JavaScript/Node.js: [chrome-remote-interface](https://github.com/cyrus-and/chrome-remote-interface) - The most-used JavaScript API for the protocol
 - TypeScript/Node.js: [chrome-debugging-client](https://github.com/krisselden/chrome-debugging-client)
+- Typescript/Node.js: [noice-json-rpc](https://www.npmjs.com/package/noice-json-rpc) - A proxy-based implementation to expose the CDP as its API.
 - Java: [chrome-devtools-java-client](https://github.com/kklisura/chrome-devtools-java-client)
 - Java: [karate](https://intuit.github.io/karate/karate-core/) - Web-service testing framework with a Java API to automate Chrome
 - Java: [jvppeteer](https://github.com/fanyong920/jvppeteer)  - Headless Chrome For Java 
