@@ -9,13 +9,14 @@
 - [Chrome DevTools Protocol](#chrome-devtools-protocol)
 - [Using DevTools frontend with other platforms](#using-devtools-frontend-with-other-platforms)
 - [DevTools Extensions](#devtools-extensions)
+- [Alumni](#alumni)
 
 ---
 
 ## Learning
 - [Dev Tips](https://umaar.com/dev-tips/) - Large collection of tips as animated gifs.
 - [DevTools Snippets](https://github.com/bahmutov/code-snippets) - Collection of snippets.
-- [Can I DevTools?](https://www.canidev.tools/) - Various workflows, documented
+- [Can I DevTools?](https://www.canidev.tools/) - Various workflows, documented.
 
 ---
 
@@ -113,7 +114,7 @@
 - [chrome-devtools-frontend](https://www.npmjs.com/package/chrome-devtools-frontend) - Mirror of the frontend that ships in Chrome.
 
 #### Ruby
-- [ruby/debug](https://github.com/ruby/debug) - Debugging functionality for Ruby
+- [ruby/debug](https://github.com/ruby/debug) - Debugging functionality for Ruby.
 
 ---
 
@@ -139,7 +140,7 @@
 - [Insight](https://github.com/3Dparallax/insight/) - A WebGL debugging toolkit which enables more productive WebGL development and more efficient WebGL applications.
 - [BEM devtools](https://github.com/escaton/bem-chrome-devtools) - Inspect BEM entities expressed in `i-bem` framework.
 - [Metal.js Developer Tools](https://chrome.google.com/webstore/detail/metaljs-developer-tools/fagnjmppkokolnbloalifcmcooldhiik) - Inspect the Metal component hierarchies.
-- [Web Component DevTools](https://chrome.google.com/webstore/detail/web-component-devtools/gdniinfdlmmmjpnhgnkmfpffipenjljo) - Inspect, modify and observe Web Components on page
+- [Web Component DevTools](https://chrome.google.com/webstore/detail/web-component-devtools/gdniinfdlmmmjpnhgnkmfpffipenjljo) - Inspect, modify and observe Web Components on page.
 
 ### Themes
 - [DevTools Author](https://chrome.google.com/webstore/detail/devtools-author/egfhcfdfnajldliefpdoaojgahefjhhi) - A selection of themes to modify parts of DevTools related to authoring web applications.
