@@ -18,6 +18,8 @@
 - [DevTools Tips](https://devtoolstips.org/) - Collection of illustrated tips as mini tutorials.
 - [Can I DevTools?](https://www.canidev.tools/) - Various workflows, documented.
 
+### Newsletters
+- [Can I DevTools - Tips & Tricks](https://canidevtools.substack.com/) - Weekly tips & tricks for your favorite browser devtools.
 ---
 
 ## DevTools tooling and ecosystem
