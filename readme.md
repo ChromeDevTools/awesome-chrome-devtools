@@ -79,7 +79,7 @@
 - Go: [gcd](https://github.com/wirepair/gcd)
 - Go: [godet](https://github.com/raff/godet)
 - Go: [Rod](https://github.com/go-rod/rod)
-- C#/.NET: [Puppeteer Sharp](https://github.com/kblok/puppeteer-sharp) - puppeteer port
+- C#/.NET: [Puppeteer Sharp](https://github.com/hardkoded/puppeteer-sharp) - puppeteer port
 - C#/dotnet: [chrome-dev-tools](https://github.com/BaristaLabs/chrome-dev-tools) - Protocol wrapper generator that can be customized by editing handlebars templates. Includes .Net Core template.
 - Ruby: [Ferrum](https://github.com/route/ferrum) - high-level API to control Chrome in Ruby
 - Ruby: [Cuprite](https://github.com/machinio/cuprite) - Capybara driver
