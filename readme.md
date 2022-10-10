@@ -18,6 +18,7 @@
 - [DevTools Tips](https://devtoolstips.org/) - Collection of illustrated tips as mini tutorials.
 - [Can I DevTools?](https://www.canidev.tools/) - Various workflows, documented.
 - [Web cheatcodes](https://codepo8.github.io/web-cheatcodes/) - Browser developer tools for non-developers
+- [Dear Console](https://codepo8.github.io/dearconsole) - A collection of snippets to use in the browser console
 
 ### Newsletters
 - [Can I DevTools - Tips & Tricks](https://canidevtools.substack.com/) - Weekly tips & tricks for your favorite browser devtools.
