@@ -16,12 +16,9 @@
 ## Learning
 - [Dev Tips](https://umaar.com/dev-tips/) - Large collection of tips as animated gifs.
 - [DevTools Tips](https://devtoolstips.org/) - Collection of illustrated tips as mini tutorials.
-- [Can I DevTools?](https://www.canidev.tools/) - Various workflows, documented.
+- [Can I DevTools?](https://www.canidev.tools/) - Various workflows, documented. Also a weekly tips & tricks [newsletter](https://canidevtools.substack.com/).
 - [Web cheatcodes](https://codepo8.github.io/web-cheatcodes/) - Browser developer tools for non-developers
 - [Dear Console](https://codepo8.github.io/dearconsole) - A collection of snippets to use in the browser console
-
-### Newsletters
-- [Can I DevTools - Tips & Tricks](https://canidevtools.substack.com/) - Weekly tips & tricks for your favorite browser devtools.
 
 ---
 
