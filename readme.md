@@ -58,6 +58,7 @@
 ### Developing with the protocol
 - [chrome-remote-interface Wiki](https://github.com/cyrus-and/chrome-remote-interface/wiki) - Many useful recipes.
 - [Chrome Protocol Proxy](https://github.com/wendigo/chrome-protocol-proxy) - Tool for debugging clients using devtools protocol.
+- [Devtools-Remote-Debugger](https://github.com/Nice-PLQ/devtools-remote-debugger) - Use the chrome devtools to remotely debug the web page of the browser.
 
 ### The big two automation libraries
 - [Puppeteer](https://github.com/GoogleChrome/puppeteer/) - Node.js offering a high-level API to control headless Chrome over the DevTools Protocol. See also [awesome-puppeteer](https://github.com/transitive-bullshit/awesome-puppeteer).
