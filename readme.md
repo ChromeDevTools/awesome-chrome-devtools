@@ -156,6 +156,7 @@
 
 ### Automation
 - [Puppeteer IDE](https://github.com/gajananpp/puppeteer-ide-extension) - Standalone Puppeteer playground in browser's developer tools.
+- [k6 browser](https://github.com/grafana/xk6-browser) - Browser automation and end-to-end web testing tool that interacts with browsers and collects frontend performance metrics.
 
 ## Alumni
 Old projects, likely not maintained any longer… But still cool.
