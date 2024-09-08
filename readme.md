@@ -125,7 +125,7 @@
 ## Applications
 
 ### Browsers
-- [BrowserBox](https://github.com/BrowserBox/BrowserBox) - Chrome as a client-server web app, largely powered by DevTools. Supports unrestricted embedding, multiuser browsing, remote DevTools, audio, and viewing documents like `.docx` and `.pdf`.
+- [BrowserBox](https://github.com/BrowserBox/BrowserBox) - Embed Chrome in a web page, largely powered by DevTools and supporting multiuser browsing, remote DevTools, audio, documents like `.docx` and `.pdf`, and more.
 - [Puppetromium](https://github.com/dosyago/puppetromium) - A proof-of-concept web browser built with Puppeteer, written in Node.JS, HTML and CSS, with no client-side JavaScript.
 
 ## Web Archivers and Indexers
