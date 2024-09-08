@@ -8,6 +8,7 @@
 - [DevTools tooling and ecosystem](#devtools-tooling-and-ecosystem)
 - [Chrome DevTools Protocol](#chrome-devtools-protocol)
 - [Using DevTools frontend with other platforms](#using-devtools-frontend-with-other-platforms)
+- [Applications](#applications)
 - [DevTools Extensions](#devtools-extensions)
 - [Alumni](#alumni)
 
@@ -119,6 +120,17 @@
 #### Ruby
 - [ruby/debug](https://github.com/ruby/debug) - Debugging functionality for Ruby.
 
+---
+
+## Applications
+
+### Browsers
+- [BrowserBox](https://github.com/BrowserBox/BrowserBox) - Chrome as a client-server web app, largely powered by DevTools. Supports unrestricted embedding, multiuser browsing, remote DevTools, audio, and viewing documents like `.docx` and `.pdf`.
+- [Puppetromium](https://github.com/dosyago/puppetromium) - A proof-of-concept web browser built with Puppeteer, written in Node.JS, HTML and CSS, with no client-side JavaScript.
+
+## Web Archivers and Indexers
+- [dn](https://github.com/dosyago/dn) - Archive and index pages you browse for offline viewing and search, implemented using `Fetch` domain interceptions, and works with any Chromium-based browser.
+  
 ---
 
 ## DevTools Extensions
