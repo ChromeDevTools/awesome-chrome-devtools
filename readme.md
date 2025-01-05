@@ -83,6 +83,7 @@
 - Go: [Rod](https://github.com/go-rod/rod)
 - C#/.NET: [Puppeteer Sharp](https://github.com/hardkoded/puppeteer-sharp) - puppeteer port
 - C#/dotnet: [chrome-dev-tools](https://github.com/BaristaLabs/chrome-dev-tools) - Protocol wrapper generator that can be customized by editing handlebars templates. Includes .Net Core template.
+- C#/.NET: [dotnet-chrome-protocol](https://github.com/seclerp/dotnet-chrome-protocol) - A runtime library and schema code generation tools for Chrome DevTools Protocol support in C#/.NET.
 - Ruby: [Ferrum](https://github.com/route/ferrum) - high-level API to control Chrome in Ruby
 - Ruby: [Cuprite](https://github.com/machinio/cuprite) - Capybara driver
 - Kotlin: [chrome-reactive-kotlin](https://github.com/wendigo/chrome-reactive-kotlin) - reactive (rxjava 2.x), low-level client library in Kotlin
