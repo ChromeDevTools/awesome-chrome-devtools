@@ -31,7 +31,6 @@
 
 ### Network Inspection
 - [betwixt](https://github.com/kdzwinel/betwixt) - System level network proxy, providing inspection via Network panel.
-- [Weer](https://weerdbg.com/) - A HTTP protocol debugger **(closed source)**
 
 ### CPU profile
 - [call-trace](https://github.com/brendankenny/call-trace) - Can instrument your JS with hooks, and then generate a `.cpuprofile`  of the of the complete (non-sampled) execution. View either time or call counts.
@@ -69,7 +68,6 @@
 
 - JavaScript/Node.js: [chrome-remote-interface](https://github.com/cyrus-and/chrome-remote-interface)
 - TypeScript/Node.js: [chrome-debugging-client](https://github.com/TracerBench/chrome-debugging-client)
-- TypeScript/Node.js: [noice-json-rpc](https://www.npmjs.com/package/noice-json-rpc) - A proxy-based implementation to expose the CDP as its API.
 - TypeScript/Node.js: [Taiko](https://github.com/getgauge/taiko/)
 - Rust: [Rust Headless Chrome](https://github.com/atroche/rust-headless-chrome/)
 - Java: [chrome-devtools-java-client](https://github.com/kklisura/chrome-devtools-java-client)
@@ -98,7 +96,6 @@
 
 ### Browser Adapters
 - [devtools-remote-debugger](https://github.com/Nice-PLQ/devtools-remote-debugger) - Use devtools against a webpage; a CDP agent implemeted in client-side JS.
-- [Inspect](https://inspect.dev/) - Use devtools against iOS and Android, easily. Browser and Webviews. **(closed source)**
 
 
 ## Using DevTools frontend with other platforms
@@ -115,9 +112,7 @@
 
 #### Node.js
 - [ndb](https://github.com/GoogleChromeLabs/ndb) - An improved Node.js debugging experience with the DevTools Frontend.
-- [Debugging Node.js with Chrome DevTools](https://medium.com/@paul_irish/debugging-node-js-nightlies-with-chrome-devtools-7c4a1b95ae27) - Guide on using the full debugging and profiling support in Node v6.3+.
 - [thetool](https://github.com/sfninja/thetool) - CPU, memory, coverage, type profiling with Node.
-- [chrome-devtools-frontend](https://www.npmjs.com/package/chrome-devtools-frontend) - Mirror of the frontend that ships in Chrome.
 
 #### Ruby
 - [ruby/debug](https://github.com/ruby/debug) - Debugging functionality for Ruby.
