@@ -21,6 +21,7 @@
 - [Web cheatcodes](https://codepo8.github.io/web-cheatcodes/) - Browser developer tools for non-developers.
 - [Dear Console](https://codepo8.github.io/dearconsole) - A collection of snippets to use in the browser console.
 - [Chrome Secret Menus](https://github.com/sparkyrider/chrome-secret-menus) - Comprehensive guide to internal pages and diagnostic tools in Chrome.
+- [Front-end Debugging Tools Handbook](https://github.com/lala-hakobyan/front-end-debugging-handbook) - Practical guide to mastering front-end debugging tools, from Chrome DevTools and framework extensions to AI-enhanced IDE debugging.
 
 ---
 
