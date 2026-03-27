@@ -79,6 +79,7 @@
 - Python: [chromewhip](https://github.com/chuckus/chromewhip) - drop-in replacement for the `splash` service
 - Python: [pyppeteer](https://github.com/pyppeteer/pyppeteer) - Puppeteer port
 - Python: [ChromeController](https://github.com/fake-name/ChromeController) - high-level browser mgmt
+- Python/Node.js: [cdpilot](https://github.com/mehmetnadir/cdpilot) - Zero-dependency browser automation CLI with 40+ commands and built-in MCP server for AI agents. Uses CDP over HTTP/WebSocket.
 - Go: [chromedp](https://github.com/chromedp/chromedp) - High-level actions and tasks for driving browsers
 - Go: [cdp](https://github.com/mafredri/cdp)
 - Go: [gcd](https://github.com/wirepair/gcd)
