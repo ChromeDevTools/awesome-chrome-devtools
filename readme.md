@@ -133,7 +133,12 @@
 
 ### Web Archivers and Indexers
 - [dn](https://github.com/dosyago/dn) - Archive and index pages you browse for offline viewing and search, implemented using the `Fetch` domain's interceptions, and works with any Chromium-based browser.
-  
+
+---
+
+### Developer Utilities
+- [DevKits](https://aiforeverthing.com) - 82+ free developer tools including JSON Formatter, JWT Decoder, Base64 Encoder/Decoder, Regex Tester, UUID Generator, and more. No signup required, works offline.
+
 ---
 
 ## DevTools Extensions
