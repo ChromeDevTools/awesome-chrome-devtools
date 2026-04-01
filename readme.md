@@ -73,6 +73,7 @@
 - TypeScript/Node.js: [Taiko](https://github.com/getgauge/taiko/)
 - TypeScript/Node.js: [Lumen](https://github.com/omxyz/lumen) - Vision-first browser agent with self-healing deterministic replay over CDP.
 - Rust: [Rust Headless Chrome](https://github.com/atroche/rust-headless-chrome/)
+- Rust: [Rustenium](https://github.com/dashn9/rustenium/) - Rust browser automation over the WebDriver BiDi Protocol and CDP
 - Java: [chrome-devtools-java-client](https://github.com/kklisura/chrome-devtools-java-client)
 - Java: [jvppeteer](https://github.com/fanyong920/jvppeteer)  - Headless Chrome For Java 
 - Python: [PyCDP](https://github.com/hyperiongray/python-chrome-devtools-protocol) - Pure-Python, sans-IO wrappers. See also the [Trio CDP driver](https://github.com/hyperiongray/trio-chrome-devtools-protocol)
