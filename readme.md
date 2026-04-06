@@ -2,6 +2,7 @@
 
 > Awesome tooling and resources in the Chrome DevTools ecosystem
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for Chrome DevTools workflow orchestration, automated browser debugging, and multi-agent development coordination. MIT licensed.
 ## Contents
 
 - [Learning](#learning)
