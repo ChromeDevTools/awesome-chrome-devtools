@@ -133,6 +133,9 @@
 
 ### Web Archivers and Indexers
 - [dn](https://github.com/dosyago/dn) - Archive and index pages you browse for offline viewing and search, implemented using the `Fetch` domain's interceptions, and works with any Chromium-based browser.
+
+### Agent Evaluation
+- [ClawBench](https://github.com/reacher-z/ClawBench) - Benchmark that runs browser agents on live production sites, using the `Fetch` domain to intercept and block only the final outbound submission so runs complete end-to-end without real-world side effects.
   
 ---
 
