@@ -161,6 +161,7 @@
 ### Automation
 - [Puppeteer IDE](https://github.com/gajananpp/puppeteer-ide-extension) - Standalone Puppeteer playground in browser's developer tools.
 - [k6 browser](https://github.com/grafana/xk6-browser) - Browser automation and end-to-end web testing tool that interacts with browsers and collects frontend performance metrics.
+- [Omni Skills Forge](https://github.com/theihtisham/omni-skills-forge) - 50,000+ curated AI agent skills for coding assistants (Claude Code, Cursor, Copilot) with a visual dashboard, one-click install, and auto-update.
 
 ## Alumni
 Old projects, likely not maintained any longer… But still cool.
