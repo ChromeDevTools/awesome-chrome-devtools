@@ -159,6 +159,7 @@
 - [TracerBench](https://github.com/TracerBench/tracerbench) - A controlled performance benchmarking tool for web applications, providing clear, actionable and usable insights into performance deltas.
 
 ### Automation
+- [Browy](https://github.com/BrowyHQ/browy) - Open-source AI agent that lives in a Chromium extension (Chrome / Edge / Brave). Drives the active tab through the DevTools Protocol from a side panel chat or a terminal-style DevTools panel CLI. Powered by your GitHub Copilot subscription.
 - [Puppeteer IDE](https://github.com/gajananpp/puppeteer-ide-extension) - Standalone Puppeteer playground in browser's developer tools.
 - [k6 browser](https://github.com/grafana/xk6-browser) - Browser automation and end-to-end web testing tool that interacts with browsers and collects frontend performance metrics.
 
