@@ -43,6 +43,7 @@
 
 ### Timeline, Tracing & Profiling
 - [DevTools Timeline Viewer](https://chromedevtools.github.io/timeline-viewer/) - Share URLs of your timeline recordings.
+- [OhMyPerf](https://github.com/hoainho/ohmyperf) - Real-Chromium Core Web Vitals (LCP/INP/CLS/FCP/TBT/TTFB) measurement with cross-origin OOPIF inspection (~99% coverage) via per-frame `CDPSession`, long-task → script-URL attribution, and Mann-Whitney U regression detection. Drives Chromium through Playwright + raw CDP (`Target.setAutoAttach`), and exposes an MCP server so LLM agents can `measure → propose_patch → verify_fix` end-to-end.
 
 ### Chrome Debugger integration with Editors
 - [VS Code - Debugger for Chrome](https://github.com/Microsoft/vscode-chrome-debug/) - Breakpoint debugging in VS Code.
