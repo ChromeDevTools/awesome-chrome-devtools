@@ -101,6 +101,9 @@
 - [devtools-remote-debugger](https://github.com/Nice-PLQ/devtools-remote-debugger) - Use devtools against a webpage; a CDP agent implemeted in client-side JS.
 - [Inspect](https://inspect.dev/) - Use devtools against iOS and Android, easily. Browser and Webviews. **(closed source)**
 
+### Remote browser services
+- [Ceki Browser](https://browser.ceki.me) - Rent real residential Chrome browsers per minute. MCP-native, CDP protocol, SDKs for Python and JS.
+
 
 ## Using DevTools frontend with other platforms
 
