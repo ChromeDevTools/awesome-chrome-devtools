@@ -129,6 +129,7 @@
 
 ### Browsers
 - [BrowserBox](https://github.com/BrowserBox/BrowserBox) - Embed Chrome in a web page, largely powered by DevTools and supporting multiuser browsing, remote DevTools, audio, and documents like `.docx`, `.pdf`, and more.
+- [Ceki Browser](https://browser.ceki.me) - Rent real residential Chrome browsers per minute for AI agents. MCP-native with real DevTools protocol, SDKs for Python/JS/LangChain/CrewAI/n8n, real residential IPs, crypto payouts.
 - [Puppetromium](https://github.com/dosyago/puppetromium) - A proof-of-concept web browser built with Puppeteer, written in Node.js, HTML and CSS, with 0% client-side JavaScript.
 
 ### Web Archivers and Indexers
