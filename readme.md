@@ -50,6 +50,7 @@
 - [ChromeREPL](https://github.com/acarabott/ChromeREPL) - Within Sublime Text, use the Chrome console.
 - [Sublime Web Inspector](http://sokolovstas.github.io/SublimeWebInspector/) - JavaScript Breakpoint debugging right in Sublime Text.
 - [WebStorm/JetBrains Chrome Extension](https://www.jetbrains.com/help/webstorm/2017.1/configuring-javascript-debugger-and-jetbrains-chrome-extension.html) - The WebStorm IDE can debug JavaScript, view the DOM tree, and edit HTML, CSS and JS live.
+- [Govard](https://github.com/ddtcorex/govard) - Go-based local development orchestrator with VSCode integration for PHP debugging, Xdebug 2 & 3 support, and automatic PHP tooling setup.
 
 ---
 
