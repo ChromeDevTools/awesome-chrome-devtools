@@ -79,6 +79,7 @@
 - Python: [chromewhip](https://github.com/chuckus/chromewhip) - drop-in replacement for the `splash` service
 - Python: [pyppeteer](https://github.com/pyppeteer/pyppeteer) - Puppeteer port
 - Python: [ChromeController](https://github.com/fake-name/ChromeController) - high-level browser mgmt
+- Python: [cdp-drive](https://github.com/immineal/cdp-drive) - A CDP browser driver in one file. No Playwright/Selenium install required.
 - Go: [chromedp](https://github.com/chromedp/chromedp) - High-level actions and tasks for driving browsers
 - Go: [cdp](https://github.com/mafredri/cdp)
 - Go: [gcd](https://github.com/wirepair/gcd)
