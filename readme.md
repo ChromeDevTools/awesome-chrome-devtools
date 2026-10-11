@@ -82,6 +82,7 @@ Pro-tip: flip on Chrome's built-in [Protocol Monitor](https://developer.chrome.c
 - [Webcmd](https://github.com/agentrhq/webcmd) - Compiles site navigation into deterministic per-site CLI commands for AI agents.
 - [Lumen](https://github.com/omxyz/lumen) - Vision-first browser agent with self-healing deterministic replay over CDP.
 - [bdg](https://github.com/szymdzum/browser-debugger-cli) - Persistent background CDP session exposing DOM, network, console, and raw protocol methods as shell commands.
+- [jshookmcp](https://github.com/vmoranv/jshookmcp) - MCP workspace that hooks your real signed-in Chrome over CDP (not a scripted browser): live DOM/network interception, TLS keylog, and script injection as agent-callable tools, so the agent verifies end-state against real responses instead of a UI "success" label.
 
 
 ### Browser Adapters
